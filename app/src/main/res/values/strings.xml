@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMSactivity</string>
+    <string name="calltext">Введите номер телефона</string>
+    <string name="callhint">+7(495)8254540</string>
+    <string name="callBtn">Звоним!</string>
+    <string name="smstext">Введите текст СМС</string>
+    <string name="smshint">Сюда</string>
+    <string name="smsBtn">Отправляем!</string>
+</resources>
